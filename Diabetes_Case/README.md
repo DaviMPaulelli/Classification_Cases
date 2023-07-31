@@ -1,1 +1,1 @@
-# case-globant
+# Diabetes Technical Case
